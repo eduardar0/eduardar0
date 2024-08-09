@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá eu sou a Eduarda 👋🙂###
 
-<!--
-**eduardar0/eduardar0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardarodrigues151108@gmail.com)
 
-Here are some ideas to get you started:
+![eduarda GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardar0&show_icons=true&theme=synthwave)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias que uso ###
+
+<div style="display: flex; gap: 10px;">
+    <a href="#">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Badge">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
+    </a>
+</div>
