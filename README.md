@@ -24,10 +24,6 @@ Apaixonada pela tecnologia, estudante de engenharia de software na universidade 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardarodrigues151108@gmail.com)
 
----
 
-### 📊 Estatísticas extras
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eduardar0&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
