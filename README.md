@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=9b4dff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Eduarda+Rodrigues;Estudante+de+Engenharia+de+Software;Apaixonada+por+Tecnologia"/>
-</p>]
+</p>
 
 ## Dashboard
 
