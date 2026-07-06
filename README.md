@@ -4,12 +4,20 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=9b4dff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Eduarda+Rodrigues;Estudante+de+Engenharia+de+Software;Apaixonada+por+Tecnologia"/>
+</p>]
+
+## Dashboard
+
+<p align="center">
+  <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eduardar0&theme=tokyonight"/>
+  <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eduardar0&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardar0&layout=compact&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eduardar0&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eduardar0&theme=tokyonight"/>
+  <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eduardar0&theme=tokyonight&utcOffset=-3"/>
 </p>
+
 
 ---
 
@@ -32,27 +40,13 @@
   <a href="mailto:eduardarodrigues151108@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/eduarda-rodrigues-151108/">
+  <a href="https://www.linkedin.com/in/eduardar0/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/eduardar0_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
 </p>
 
----
 
-## Dashboard
 
-<p align="center">
-  <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eduardar0&theme=tokyonight"/>
-  <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eduardar0&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eduardar0&theme=tokyonight"/>
-  <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eduardar0&theme=tokyonight&utcOffset=-3"/>
-</p>
 
 ---
 
