@@ -1,7 +1,7 @@
 ### Olá eu sou a Eduarda 👋🙂
 
-![Eduarda GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardar0&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardar0&layout=compact)
+![Eduarda GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardar0&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardar0&layout=compact&theme=radical)
 
 ### Tecnologias que uso ###
 
@@ -23,3 +23,11 @@
 Apaixonada pela tecnologia, estudante de engenharia de software na universidade de Brasilia- UnB <br>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardarodrigues151108@gmail.com)
+
+---
+
+### 📊 Estatísticas extras
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eduardar0&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+
